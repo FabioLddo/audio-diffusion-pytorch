@@ -13,8 +13,6 @@ setup(
     keywords=["artificial intelligence", "deep learning", "audio generation"],
     install_requires=[
         "tqdm",
-        "torch>=1.6",
-        "torchaudio",
         "data-science-types>=0.2",
         "einops>=0.6",
         "a-unet",
